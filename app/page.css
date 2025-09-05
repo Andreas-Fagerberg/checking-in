@@ -1,0 +1,33 @@
+.checkin-main-container {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.checkin-form-container {
+  display: flex;
+  background-color: rgb(209, 207, 207);;
+  align-items: center;
+  justify-content: center;
+  height: 10rem;
+  width: 20rem;
+  border-style: solid;
+  border-width: 0.1rem 0.2rem 0.15rem 0.1rem;
+  border-radius: 0.3rem;
+  border-color: rgb(126, 126, 126) rgb(75, 75, 75) rgb(75, 75, 75) rgb(126, 126, 126);
+  background-color: rgb(248, 248, 248);
+  box-shadow: 0.18rem 0.15rem rgba(170, 170, 173, 0.507);
+}
+
+.checkin-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.checkin-error-text {
+  color: red;
+}

@@ -11,7 +11,7 @@
   background-color: rgb(209, 207, 207);;
   align-items: center;
   justify-content: center;
-  height: 10rem;
+  height: 14rem;
   width: 20rem;
   border-style: solid;
   border-width: 0.1rem 0.2rem 0.15rem 0.1rem;
@@ -28,6 +28,10 @@
   gap: 1rem;
 }
 
-.checkin-error-text {
+.checkin-error-message {
   color: red;
+}
+
+.checkin-success-message {
+  color:rgb(24, 201, 27);
 }

@@ -1,12 +1,12 @@
-# Deploying to GitHub Pages
+## Deploying to GitHub Pages
 
 This example supports deploying a statically exported Next.js application to GitHub Pages.
 
 The `out` directory should not be ignored by version control.
 
-## How to use
+### How to use
 
-### Deploy to GitHub Pages
+#### Deploy to GitHub Pages
 
 1.  Create a new public GitHub repository.
 1.  Edit `next.config.js` to match your GitHub repository name:

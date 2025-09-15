@@ -1,4 +1,4 @@
-# Visitor Check In System
+# Visitor Check In System Frontend
 
 A simple frontend made to handle the user input for a visitor check in system.
 

@@ -67,7 +67,7 @@ For detailed instructions, see the official Next.js GitHub Pages example:
  Open `app/page.tsx` and update the fetch call with your API endpoint:
    ```typescript
     const response = await fetch("<your-api-url>", {
-        method: "POST",
+      method: "POST",
       body: JSON.stringify({
         Name: name,
         Email: email,

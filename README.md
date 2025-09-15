@@ -39,10 +39,6 @@ A Next.js static export page that allows a user to input their name and email in
    yarn install
    ```
 
-3. **Preview static files with Live Server (optional)**
-
-
-
 ### Executing program
 
 #### Local development
@@ -51,18 +47,9 @@ A Next.js static export page that allows a user to input their name and email in
 * Right-click a static file (e.g. `public/index.html`) → **Open with Live Server**.
 
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
-Contributors names and contact info
-
-Andreas Fagerberg
+Andreas Fagerberg <andreas.fagerberg.3@gmail.com>
 
 ## License
 
@@ -70,8 +57,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [https://github.com/vercel/next.js/tree/canary/examples/github-pages]
+* GitHub Pages Template and Deployment: [https://github.com/vercel/next.js/tree/canary/examples/github-pages]
 
 ## Deploying to GitHub Pages
 

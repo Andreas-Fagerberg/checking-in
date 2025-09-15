@@ -4,9 +4,60 @@ A simple frontend made to handle the user input for a visitor check in system.
 
 ## Description
 
-A Next.js 
+A Next.js static export page that allows a user to input their name and email in order to check in to a visitor log system. Connects to a Azure Funtion API allowing communication with a Azure SQL Database. 
 
 ## Getting Started
+
+### Dependencies
+ 
+- **Node.js**: v18 or higher (recommended)  
+- **Package manager**: npm (bundled with Node) or Yarn  
+- **Main frameworks / libraries**:
+  - Next.js
+  - React & React DOM
+  - TypeScript
+
+### Installing
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Andreas-Fagerberg/checking-in
+   cd checking-in
+```
+
+2. **Install dependencies**
+
+   If you use **npm**:
+
+   ```bash
+   npm install
+   ```
+
+   If you use **Yarn**:
+
+   ```bash
+   yarn install
+   ```
+
+3. **Preview static files with Live Server (optional)**
+
+   * Install the **Live Server** extension in VS Code.
+   * Right-click a static file (e.g. `public/index.html`) → **Open with Live Server**.
+
+### Quick tips
+
+* Use `nvm` (Node Version Manager) if you need to switch Node versions:
+
+  ```bash
+  nvm install 18
+  nvm use 18
+  ```
+* For CI or reproducible installs use `npm ci` or `yarn install --frozen-lockfile`.
+
+```
+
+Want me to replace `Project Name` with your repo name and add a short **Development Tools** section (VS Code + recommended extensions)?
+```
 
 ### Dependencies
 

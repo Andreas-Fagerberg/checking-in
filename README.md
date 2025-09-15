@@ -6,20 +6,6 @@ The `out` directory should not be ignored by version control.
 
 ## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example github-pages github-pages-app
-```
-
-```bash
-yarn create next-app --example github-pages github-pages-app
-```
-
-```bash
-pnpm create next-app --example github-pages github-pages-app
-```
-
 ### Deploy to GitHub Pages
 
 1.  Create a new public GitHub repository.

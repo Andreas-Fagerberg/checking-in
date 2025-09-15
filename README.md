@@ -95,5 +95,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 * GitHub Pages Template and Deployment: [https://github.com/vercel/next.js/tree/canary/examples/github-pages]
 
+___
 
+Readme made in part with the help of AI (ChatGPT).
 

@@ -1,6 +1,6 @@
 # Visitor Check In System
 
-A simple frontend made to handle the check in for a visitor system.
+A simple frontend made to handle the user input for a visitor check in system.
 
 ## Description
 

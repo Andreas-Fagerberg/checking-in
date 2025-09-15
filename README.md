@@ -72,7 +72,7 @@ The `out` directory should not be ignored by version control.
 
 ### How to use
 
-#### Deploy to GitHub Pages
+#### Deploy to GitHub Pages*
 
 1.  Create a new public GitHub repository.
 1.  Edit `next.config.js` to match your GitHub repository name:
@@ -88,3 +88,4 @@ Congratulations! You should have a URL like:
 ```bash
 https://<github-user-name>.github.io/<github-project-name>/
 ```
+*Source: https://github.com/vercel/next.js/tree/canary/examples/github-pages

@@ -43,8 +43,13 @@ A Next.js static export page that allows a user to input their name and email in
 
 #### Local development
 
-* Install the **Live Server** extension in VS Code.
-* Right-click a static file (e.g. `public/index.html`) → **Open with Live Server**.
+Start the Next.js development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 
 ## Authors

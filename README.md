@@ -1,10 +1,10 @@
-# Project Title
+# Visitor Check In System
 
-Simple overview of use/purpose.
+A simple frontend made to handle the check in for a visitor system.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+A Next.js 
 
 ## Getting Started
 
@@ -37,8 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Andreas Fagerberg
 
 ## Version History
 

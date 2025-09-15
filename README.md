@@ -4,7 +4,7 @@ A simple frontend made to handle the user input for a visitor check in system.
 
 ## Description
 
-A Next.js static export page that allows a user to input their name and email in order to check in to a visitor log system. Connects to a Azure Function API allowing communication with a Azure SQL Database. 
+A Next.js static export page that allows a user to input their name and email in order to check in to a visitor log system. Connects to an Azure Function API allowing communication with a Azure SQL Database. 
 
 ## Getting Started
 

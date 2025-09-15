@@ -39,6 +39,13 @@ A Next.js static export page that allows a user to input their name and email in
    yarn install
    ```
 
+3. **Editing the API URL**:
+
+   In the page.tsx file edit the URL string in the fetch functions parameter to the URL of your API.
+   ```typescript
+   const response = await fetch("<your-api-url>", {
+   ```
+
 ### Executing program
 
 #### Local development

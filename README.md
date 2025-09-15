@@ -23,7 +23,7 @@ A Next.js static export page that allows a user to input their name and email in
    ```bash
    git clone https://github.com/Andreas-Fagerberg/checking-in
    cd checking-in
-```
+   ```
 
 2. **Install dependencies**
 
@@ -44,20 +44,6 @@ A Next.js static export page that allows a user to input their name and email in
    * Install the **Live Server** extension in VS Code.
    * Right-click a static file (e.g. `public/index.html`) → **Open with Live Server**.
 
-### Quick tips
-
-* Use `nvm` (Node Version Manager) if you need to switch Node versions:
-
-  ```bash
-  nvm install 18
-  nvm use 18
-  ```
-* For CI or reproducible installs use `npm ci` or `yarn install --frozen-lockfile`.
-
-```
-
-Want me to replace `Project Name` with your repo name and add a short **Development Tools** section (VS Code + recommended extensions)?
-```
 
 ### Dependencies
 

@@ -22,6 +22,7 @@ A Next.js static export page that allows a user to input their name and email in
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Andreas-Fagerberg/checking-in
+   
    cd checking-in
    ```
 
